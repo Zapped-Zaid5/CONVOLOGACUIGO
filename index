@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acustrangulam | Dialogue</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #c9c9c9;
+            font-family: 'Courier New', monospace;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background-color: #1e0000;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 3px solid #ff0000;
+            position: relative;
+        }
+        
+        h1, h2, h3 {
+            color: #ff0000;
+            text-transform: uppercase;
+        }
+        
+        .section {
+            margin: 30px 0;
+            padding: 20px;
+            background-color: #1a1a1a;
+            border-left: 5px solid #ff0000;
+        }
+        
+        .dialogue-container {
+            background-color: #1a1a1a;
+            padding: 20px;
+            margin: 30px 0;
+            border-left: 5px solid #ff0000;
+        }
+        
+        .dialogue-line {
+            margin-bottom: 15px;
+            padding: 10px;
+        }
+        
+        .tbk {
+            color: #ff0000;
+            font-weight: bold;
+        }
+        
+        .wendigo {
+            color: #a00000;
+            font-weight: bold;
+        }
+        
+        .action {
+            font-style: italic;
+            color: #888888;
+            padding: 5px 0;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 30px;
+            background-color: #1e0000;
+            border-top: 3px solid #ff0000;
+        }
+        
+        .button {
+            display: inline-block;
+            background-color: #2a0000;
+            color: #ff0000;
+            padding: 10px 20px;
+            text-decoration: none;
+            border: 1px solid #ff0000;
+            margin-top: 20px;
+            transition: all 0.3s;
+        }
+        
+        .button:hover {
+            background-color: #ff0000;
+            color: #121212;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Acustrangulam & Wendigo</h1>
+        <p>A Conversation in the Workshop</p>
+    </header>
+    
+    <div class="container">
+        <div class="dialogue-container">
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> good morning
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> i do not sleep.
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> i also do not.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> who must we sew first?
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> i am eating my glucose first.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> ok.
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> i have eaten my glucose.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> now who must we sew first?
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> the small one.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> ok
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> you harvest the organs i will get the machine.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> ok
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> i have a book, i forgot to mention.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> Elaborate
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> it is about a highschool student navigating the challenges of highschool and romance, is this neccessary to read.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> romance.... give it to me, i will rid the world of it.
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> ok.
+            </div>
+            <div class="dialogue-line">
+                <span class="action">*gives wendigo the book. and wendigo eats it.*</span>
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> do you have any other book?
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> this one about a girl navigating through colledge and wanting romance.
+            </div>
+            <div class="dialogue-line">
+                <span class="action">*tbk hands the book to wendigo as it consumes the book.*</span>
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> atlast i have this final book about philosophy of life.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> we shall read this before we sleep.
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> i don't sleep.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> i also do not.
+            </div>
+            <div class="dialogue-line">
+                <span class="tbk">TBK:</span> i know, regardless no more books are with me, let us continue with our work.
+            </div>
+            <div class="dialogue-line">
+                <span class="wendigo">Wendigo:</span> ok.
+            </div>
+            <div class="dialogue-line">
+                <span class="action">*TBK connects the 90 wires to the electricity to turn the sewing machine on*</span>
+            </div>
+        </div>
+        
+        <div style="text-align: center;">
+            <a href="https://zapped-zaid5.github.io/TBK/" class="button">RETURN TO MAIN PAGE</a>
+        </div>
+    </div>
+    
+    <footer>
+        <p>© Morphic by Transception Games | Website assistance by Vidyut</p>
+    </footer>
+</body>
+</html>
